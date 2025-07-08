@@ -6,4 +6,7 @@
 4. visit [www.figma.com/](https://www.figma.com/)
 5. create account
 6. drag and drop the `developer-portfolio.fig`
-7. Enjoy !!! 
+7. Enjoy !!!
+
+   ## Live Demo
+[View on GitHub Pages](https://shahriartbc.github.io/web-dev-portfolio/)
